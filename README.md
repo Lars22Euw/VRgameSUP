@@ -9,7 +9,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ## How to Start
 
 ```{bash}
-git clone https://github.com/wenjietseng/VR-locomotion-parkour.git
+git clone https://github.com/Lars22Euw/VRgameSUP
 ```
 
 - download the GitHub repo and open __VRParkour__ folder as a Unity project
