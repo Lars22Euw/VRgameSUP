@@ -4,16 +4,10 @@
 
 2022 with Object Interaction Task
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZVDoHTefdR0
-" target="_blank"><img src="http://img.youtube.com/vi/ZVDoHTefdR0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jFmV8KGidQk
+" target="_blank"><img src="http://img.youtube.com/vi/jFmV8KGidQk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-
-2021 Version
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5s-vTwTFc7U
-" target="_blank"><img src="http://img.youtube.com/vi/5s-vTwTFc7U/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## How to Start
 
